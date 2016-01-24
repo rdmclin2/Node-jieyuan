@@ -6,5 +6,5 @@ jieyuan
 
 
 ## 开发过程
-[T1 - 使用Nodejs快速创建web项目](https://github.com/rdmclin2/NodeTurtorials/wiki/T1-使用Nodejs快速创建web项目)
-[T2-Nodejs项目典型目录结构](https://github.com/rdmclin2/jieyuan/wiki/T2-Nodejs项目典型目录结构)
+- [T1 - 使用Nodejs快速创建web项目](https://github.com/rdmclin2/NodeTurtorials/wiki/T1-使用Nodejs快速创建web项目)
+- [T2-Nodejs项目典型目录结构](https://github.com/rdmclin2/jieyuan/wiki/T2-Nodejs项目典型目录结构)
