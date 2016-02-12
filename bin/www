@@ -4,6 +4,12 @@
  * Module dependencies.
  */
 
+process.env.NODE_ENV = process.env.NODE_ENV || 'development';
+
+var Mongoose = require('../config/mongoose');
+//首先创建数据库连接
+var db =  Mongoose();
+
 var app = require('../app');
 var debug = require('debug')('NodeTurtorials:server');
 var http = require('http');
